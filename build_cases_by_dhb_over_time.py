@@ -74,7 +74,7 @@ def main(cases_by_dhb, output_folder, output_csv, log_level):
 
     # Check out latest_cases_by_DHB.csv and clean up old files
     run_shell_command('git checkout cases_by_DHB.csv')
-    run_shell_command('rm -rf cases_by_DHB.githistory cases_by_DHB_history.csv')
+    run_shell_command('rm -rf cases_by_DHB.githistory cases_by_DHB_history.csv cases_by_DHB')
 
 
 if __name__ == "__main__":
