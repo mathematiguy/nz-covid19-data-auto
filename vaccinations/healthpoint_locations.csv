@@ -63,6 +63,7 @@ lat,lng,name,id,url,branch
 -36.91035369999999,174.64981710000006,Westview Medical Centre,213168,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/westview-medical-centre/,primary
 -36.7149449,174.74823049999998,Browns Bay Family Doctors,213231,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/browns-bay-family-doctors/,primary
 -36.90562870000001,174.6635986,Kelston Medical Centre ,213273,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/kelston-medical-centre/,primary
+-36.7906436,174.77257910000003,Byron Medical ,213286,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/byron-medical/,primary
 -36.8660651,174.57930609999994,Swanson Medical Centre,215071,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/swanson-medical-centre/,primary
 -36.8292808,174.79730129999996,Devonport Family Medicine,215244,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/devonport-family-medicine/,primary
 -36.73674889999999,174.72786210000004,Travel Clinic North Shore ,215433,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/specialised-primary-healthcare/travel-clinic-north-shore/,primary
@@ -80,14 +81,13 @@ lat,lng,name,id,url,branch
 -36.90947669999999,174.75797680000005,Three Kings Family Medical Centre,250944,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/three-kings-family-medical-centre/,primary
 -37.0430362,174.8655899,Pasefika Family Health Group - Weymouth Medical Centre,266676,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/pasefika-family-health-group-weymouth-medical/,primary
 -36.8462319,174.76593449999996,109 Doctors,305644,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/109-doctors/,primary
--36.784107938385745,174.7535079717636,Shorecare Urgent Care Smales Farm,309981,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/primary-healthcare-accident-medical/shorecare-urgent-care-smales-farm/,primary
+-36.784107938385745,174.7535079717636,"Smales Farm Technology Office Park, 74 Taharoto Road, Takapuna, Auckland",309981,https://www.healthpoint.co.nz/smales-farm-technology-office-park-74-taharoto/,primary
 -36.9265863,174.8978581,The Doctors Ti Rakau,316925,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/primary-healthcare-accident-medical/the-doctors-ti-rakau/,primary
 -36.9841389,174.87851920000003,"597 Great South Road, Manukau, Auckland",316953,https://www.healthpoint.co.nz/597-great-south-road-manukau-auckland/,primary
 -36.971553,174.79868799999997,Mangere Health Centre,316967,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/mangere-health-centre/,primary
 -36.9714065,174.785845,Local Doctors Airport Oaks,317009,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/local-doctors-airport-oaks/,primary
 -36.96203980000001,174.87292230000003,Local Doctors Otara,317218,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/primary-healthcare-accident-medical/local-doctors-otara/,primary
 -36.9769806,174.8961312,Local Doctors Dawson,317356,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/primary-healthcare-accident-medical/local-doctors-dawson/,primary
--36.9610281,174.88783439999997,Local Doctors East Tamaki,317418,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/local-doctors-east-tamaki/,primary
 -37.0615994,174.9396054,Tiakina Te Ora,318325,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/tiakina-te-ora/,primary
 -36.91531839999999,174.8728314,"11-13 Cortina Place, Pakuranga, Auckland",318617,https://www.healthpoint.co.nz/11-13-cortina-place-pakuranga-auckland/,primary
 -37.0221625,174.89747820000002,Manurewa Healthcare,318673,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/manurewa-healthcare/,primary
@@ -101,6 +101,7 @@ lat,lng,name,id,url,branch
 -36.9797129,174.85567420000007,Papatoetoe Medical Centre,321914,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/papatoetoe-medical-centre/,primary
 -36.9801678,174.8536931,Papatoetoe Family Doctors,321942,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/papatoetoe-family-doctors/,primary
 -37.020485685455874,174.86460506916046,Fellbrook Medical Centre,322045,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/fellbrook-medical-centre/,primary
+-36.8810887,174.8982629,Marina Medical,322889,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/marina-medical/,primary
 -36.89987999999999,174.90785649999998,"14 Highland Park Drive, Highland Park, Auckland",325008,https://www.healthpoint.co.nz/14-highland-park-drive-highland-park-auckland/,primary
 -37.0313194,174.86782160000007,Clendon Family Health Centre,326549,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/clendon-family-health-centre/,primary
 -37.020321,174.89554199999998,"157 Great South Road, Manurewa, Auckland",326596,https://www.healthpoint.co.nz/157-great-south-road-manurewa-auckland/,primary
@@ -163,6 +164,7 @@ lat,lng,name,id,url,branch
 -37.2008535,174.90021060000004,Unichem Pukekohe Pharmacy,461893,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-pukekohe-pharmacy/,pharmacy
 -36.864551179552514,174.63020145893097,Unichem Medi-Centre Pharmacy,462201,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-medi-centre-pharmacy/,pharmacy
 -36.9082158,174.73376140000005,Unichem Stoddard Road Pharmacy,462234,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-stoddard-road-pharmacy/,pharmacy
+-36.8827281,174.6324161,Unichem Waiora Pharmacy,462240,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-waiora-pharmacy/,pharmacy
 -36.8778145,174.75062309999998,Unichem Eden Quarter Pharmacy,462373,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-eden-quarter-pharmacy/,pharmacy
 -36.8621229,174.8588211,"eastMED Integrated Medical Centre, 188 Saint Heliers Bay Road, Saint Heliers, Auckland",462469,https://www.healthpoint.co.nz/eastmed-integrated-medical-centre-188-saint/,pharmacy
 -36.8457023,174.73535040000002,Herne Bay Pharmacy,462484,https://www.healthpoint.co.nz/pharmacy/pharmacy/herne-bay-pharmacy/,pharmacy
@@ -179,6 +181,7 @@ lat,lng,name,id,url,branch
 -36.7974685,174.64744959999996,Unichem Hobsonville Pharmacy,462937,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-hobsonville-pharmacy/,pharmacy
 -36.8566378,174.62956410000004,Lincoln Mall Pharmacy,462962,https://www.healthpoint.co.nz/pharmacy/pharmacy/lincoln-mall-pharmacy/,pharmacy
 -36.834692,174.60250689999998,Unichem Massey Pharmacy,462973,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-massey-pharmacy/,pharmacy
+-36.8011217,174.7457822,Northcote Family Pharmacy,463004,https://www.healthpoint.co.nz/pharmacy/pharmacy/northcote-family-pharmacy/,pharmacy
 -37.0475835,174.9272155,Unichem Takanini Pharmacy,463047,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-takanini-pharmacy/,pharmacy
 -36.8421999,174.6514783,Unichem Peninsula Pharmacy,463057,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-peninsula-pharmacy/,pharmacy
 -36.74282649999999,174.695961,Unichem Rosedale Pharmacy,463079,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-rosedale-pharmacy/,pharmacy
@@ -199,9 +202,12 @@ lat,lng,name,id,url,branch
 -36.8995836,174.85407570000007,Unichem Panmure Pharmacy,463473,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-panmure-pharmacy/,pharmacy
 -36.9132158,174.72797960000003,Unichem Richardson Road Pharmacy,463504,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-richardson-road-pharmacy/,pharmacy
 -36.9104783,174.77481910000006,Unichem Royal Oak Pharmacy,463509,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-royal-oak-pharmacy/,pharmacy
+-36.91029229999999,174.65176109999993,Glen Eden Pharmacy,463809,https://www.healthpoint.co.nz/pharmacy/pharmacy/glen-eden-pharmacy/,pharmacy
+-36.7893879,174.74513780000007,Sunnybrae Pharmacy,463829,https://www.healthpoint.co.nz/pharmacy/pharmacy/sunnybrae-pharmacy/,pharmacy
 -36.6363653,174.74791979999998,Life Pharmacy Whangaparaoa,463992,https://www.healthpoint.co.nz/pharmacy/pharmacy/life-pharmacy-whangaparaoa/,pharmacy
 -36.58764130000001,174.69533580000007,Life Pharmacy Orewa,464056,https://www.healthpoint.co.nz/pharmacy/pharmacy/life-pharmacy-orewa/,pharmacy
 -36.77290120000001,174.76527450000003,Unichem Milford Pharmacy,464067,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-milford-pharmacy/,pharmacy
+-36.90245770000001,174.92564259999995,Unichem John Savory Pharmacy,464116,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-john-savory-pharmacy/,pharmacy
 -37.1025629,174.95136950000006,The Capsule Pharmacy,464156,https://www.healthpoint.co.nz/pharmacy/pharmacy/the-capsule-pharmacy/,pharmacy
 -37.01350850000001,174.90041359999998,Unichem Hillpark Pharmacy,464195,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-hillpark-pharmacy/,pharmacy
 -36.8809843,174.89905199999998,Unichem Marina Pharmacy,465046,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-marina-pharmacy/,pharmacy
@@ -257,6 +263,7 @@ lat,lng,name,id,url,branch
 -43.5761593,172.54616569999996,Halswellhealth,535069,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/halswellhealth/,primary
 -43.574254,172.568093,Halswellhealth,535069,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/halswellhealth/,primary
 -42.519135,172.82255899999996,Hanmer Springs Health Centre,535072,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/hanmer-springs-health-centre/,primary
+-43.49125799999999,172.595148,Harewood Medical Centre,535075,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/harewood-medical-centre/,primary
 -43.554473,172.594421,HillMed Health Centre,535096,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/hillmed-health-centre/,primary
 -43.64181079999999,172.47490900000003,WeCare Health,535105,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/wecare-health/,primary
 -43.55194320110702,172.55701214075089,WeCare Health,535105,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/wecare-health/,primary
@@ -280,6 +287,7 @@ lat,lng,name,id,url,branch
 -43.5329258,172.5987677,Riccarton Medical Practice,535267,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/riccarton-medical-practice/,primary
 -43.5948428,172.37507870000002,Rolleston Medical Centre,535276,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/rolleston-medical-centre/,primary
 -43.548303,172.622289,Selwyn Village Healthcare,535282,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/selwyn-village-healthcare/,primary
+-43.5592762,172.6548636,St Martins Medical Practice,535300,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/st-martins-medical-practice/,primary
 -43.5285471,172.6024081,Straven Medical,535303,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/straven-medical/,primary
 -44.2415568,171.27734639999994,Temuka Family Practice,535318,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/temuka-family-practice/,primary
 -43.9152401,171.7293115,Tinwald Medical Centre,535336,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/tinwald-medical-centre/,primary
@@ -315,6 +323,7 @@ lat,lng,name,id,url,branch
 -43.56920559999999,172.75907949999998,Sumner Pharmacy,535645,https://www.healthpoint.co.nz/pharmacy/pharmacy/sumner-pharmacy/,pharmacy
 -44.2450057,171.27757840000004,Temuka Pharmacy,535651,https://www.healthpoint.co.nz/pharmacy/pharmacy/temuka-pharmacy/,pharmacy
 -43.5321144,172.63748680000003,Christchurch Central Pharmacy,535654,https://www.healthpoint.co.nz/pharmacy/pharmacy/christchurch-central-pharmacy/,pharmacy
+-43.5424395,172.61404330000005,Addington Pharmacy,535657,https://www.healthpoint.co.nz/pharmacy/pharmacy/addington-pharmacy/,pharmacy
 -43.4887925,172.5874003,Unichem Bishopdale Pharmacy,535678,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-bishopdale-pharmacy/,pharmacy
 -43.50721739999999,172.72672769999997,Unichem Brighton Village Pharmacy,535681,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-brighton-village-pharmacy/,pharmacy
 -43.531251,172.57467999999994,Unichem Bush Inn Pharmacy,535684,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-bush-inn-pharmacy/,pharmacy
@@ -374,6 +383,7 @@ lat,lng,name,id,url,branch
 -44.7332262,170.46883839999998,Kurow Medical Centre,536438,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/kurow-medical-centre/,primary
 -44.48926386041274,169.97090321957398,Kurow Medical Centre,536438,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/kurow-medical-centre/,primary
 -44.2642029,170.10048430000006,Kurow Medical Centre,536438,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/kurow-medical-centre/,primary
+-45.9201013,169.68970779999995,Tuapeka Community Health,536441,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/tuapeka-community-health-1/,primary
 -45.8580816,170.5008056,Maori Hill Clinic,536444,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/maori-hill-clinic/,primary
 -46.1206886,169.95834060000004,Milton Medical Centre,536450,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/milton-medical-centre/,primary
 -45.88205179999999,170.48280269999998,Mornington Health Centre,536453,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/mornington-health-centre/,primary
@@ -407,7 +417,6 @@ lat,lng,name,id,url,branch
 -45.8720041,170.5074182,Unichem Centre City Pharmacy,536612,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-centre-city-pharmacy/,pharmacy
 -45.8678529,170.5073532,Unichem Knox Pharmacy,536621,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-knox-pharmacy/,pharmacy
 -45.8822846,170.4826778,Unichem Mornington Pharmacy,536624,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-mornington-pharmacy/,pharmacy
--41.3048528,174.7635805,Brooklyn Central Health,536645,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/brooklyn-central-health/,primary
 -41.30369719999999,174.7641798,Brooklyn Medical Centre,536648,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/brooklyn-medical-centre/,primary
 -41.2947113,174.7805629,Capital Care Health Centre,536651,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/capital-care-health-centre/,primary
 -41.2915274,174.77357670000004,City GPs Ltd,536657,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/city-gps-ltd/,primary
@@ -450,6 +459,7 @@ lat,lng,name,id,url,branch
 -41.19849739999999,174.94862590000002,Naenae Medical Centre,537057,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/naenae-medical-centre/,primary
 -41.2049105,174.92669039999998,"135 Witako Street, Epuni, Lower Hutt",537072,https://www.healthpoint.co.nz/135-witako-street-epuni-lower-hutt/,primary
 -41.2099569,174.9064448,Life Pharmacy Queensgate,537132,https://www.healthpoint.co.nz/pharmacy/pharmacy/life-pharmacy-queensgate/,pharmacy
+-41.124592,175.0680507,Unichem Maidstone Pharmacy,537156,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-maidstone-pharmacy/,pharmacy
 -41.147726,175.01178800000002,Silverstream Pharmacy,537162,https://www.healthpoint.co.nz/pharmacy/pharmacy/silverstream-pharmacy/,pharmacy
 -43.9544685,-176.55824710000002,Chatham Islands Health Centre - General Practice,537220,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/chatham-islands-health-centre-general-practice/,primary
 -39.5293389,176.8560784,Greendale Family Health Centre,537250,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/greendale-family-health-centre/,primary
@@ -467,11 +477,12 @@ lat,lng,name,id,url,branch
 -39.6305549,176.8318274,Unichem Stortford Lodge Pharmacy,537400,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-stortford-lodge-pharmacy/,pharmacy
 -39.52287729999999,176.8687281,Unichem Greenmeadows Pharmacy,537421,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-greenmeadows-pharmacy/,pharmacy
 -39.64080939999999,176.8424086,Life Pharmacy Hastings,537424,https://www.healthpoint.co.nz/pharmacy/pharmacy/life-pharmacy-hastings/,pharmacy
--39.64274890000001,176.84284939999998,Unichem Russell Street Pharmacy,537433,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-russell-street-pharmacy/,pharmacy
+-39.64274890000001,176.84284939999998,"110 Russell Street South, Hastings",537433,https://www.healthpoint.co.nz/110-russell-street-south-hastings/,pharmacy
 -39.4775552,176.88156449999997,Westshore Pharmacy,537445,https://www.healthpoint.co.nz/pharmacy/pharmacy/westshore-pharmacy/,pharmacy
 -39.6695548,176.87818549999997,Unichem Jeff Whittakers Pharmacy,537448,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-jeff-whittakers-pharmacy/,pharmacy
 -39.9091658,175.0534444,Aramoho Health Centre,537513,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/aramoho-health-centre/,primary
 -39.92755501360353,174.9948026754049,Living Waters Medical,537519,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/living-waters-medical/,primary
+-39.92484090000001,175.04036759999997,St Johns Medical Centre,537540,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/st-johns-medical-centre/,primary
 -39.9258447,175.04440909999994,"57 Campbell Street, Whanganui",537546,https://www.healthpoint.co.nz/57-campbell-street-whanganui/,primary
 -39.76102789999999,174.6316647,"13 Hussey Street, Waverley",537546,https://www.healthpoint.co.nz/13-hussey-street-waverley/,primary
 -39.9325024,175.0508297,Central City Pharmacy,537567,https://www.healthpoint.co.nz/pharmacy/pharmacy/central-city-pharmacy/,pharmacy
@@ -546,6 +557,7 @@ lat,lng,name,id,url,branch
 -38.1811276,175.21049119999998,Otorohanga Medical,538404,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/otorohanga-medical/,primary
 -37.3813752,175.6700367,Paeroa Medical Centre,538407,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/paeroa-medical-centre/,primary
 -37.02403193189015,175.8601015806198,Pauanui Medical Centre,538413,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/pauanui-medical-centre/,primary
+-37.7618481,175.28714719999994,Tui Medical - Davies Corner,538428,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/tui-medical-davies-corner/,primary
 -37.78358267475688,175.27336835861206,Redicare Medical Centre,538437,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/redicare-medical-centre/,primary
 -37.0009709,175.84870790000002,Tairua Medical Centre,538449,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/tairua-medical-centre/,primary
 -38.0112891,175.32248479999998,Te Awamutu Medical Centre,538455,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/te-awamutu-medical-centre/,primary
@@ -576,8 +588,10 @@ lat,lng,name,id,url,branch
 -35.5332157,173.3892952,Hauora Hokianga / Hokianga Health,538791,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/hauora-hokianga-hokianga-health/,primary
 -35.458276,173.65421709999998,Hauora Hokianga / Hokianga Health,538791,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/hauora-hokianga-hokianga-health/,primary
 -35.4075786,173.5068124,Hauora Hokianga / Hokianga Health,538791,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/hauora-hokianga-hokianga-health/,primary
+-35.3815537,173.384145,Hauora Hokianga / Hokianga Health,538791,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/hauora-hokianga-hokianga-health/,primary
 -35.3635978360611,173.54335963726044,Hauora Hokianga / Hokianga Health,538791,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/hauora-hokianga-hokianga-health/,primary
 -35.3565982,173.59365309999998,Hauora Hokianga / Hokianga Health,538791,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/hauora-hokianga-hokianga-health/,primary
+-35.3213013,173.32737889999999,Hauora Hokianga / Hokianga Health,538791,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/hauora-hokianga-hokianga-health/,primary
 -35.260448,173.39482539999995,Hauora Hokianga / Hokianga Health,538791,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/hauora-hokianga-hokianga-health/,primary
 -35.2372604,173.54305079999995,Hauora Hokianga / Hokianga Health,538791,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/hauora-hokianga-hokianga-health/,primary
 -35.38818699999999,174.01259819999996,Moerewa Medical Services,538800,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/moerewa-medical-services/,primary
@@ -600,6 +614,7 @@ lat,lng,name,id,url,branch
 -36.8297726,174.7961873,Devonport 7 Day Pharmacy,538971,https://www.healthpoint.co.nz/pharmacy/pharmacy/devonport-7-day-pharmacy/,pharmacy
 -37.6710978,176.1526212,The Doctors Bureta,539081,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/the-doctors-bureta/,primary
 -37.972356,177.05840090000004,Ohope Beach Medical Centre,539144,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/ohope-beach-medical-centre/,primary
+-37.6666236,176.1394904,Otumoetai Doctors,539150,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/otumoetai-doctors/,primary
 -37.70117340000001,176.28226070000005,The Doctors Papamoa,539159,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/the-doctors-papamoa/,primary
 -37.9747848,176.82757349999997,"26 College Road, Edgecumbe",539168,https://www.healthpoint.co.nz/26-college-road-edgecumbe/,primary
 -37.71682081117264,176.14377200603485,Te Manu Toroa Tauranga Moana City Clinic,539186,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/te-manu-toroa-tauranga-moana-city-clinic/,primary
@@ -612,6 +627,7 @@ lat,lng,name,id,url,branch
 -41.311616,174.778965,Unichem Newtown Mall Pharmacy,564143,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-newtown-mall-pharmacy/,pharmacy
 -37.7263859,176.13331010000002,Unichem Greerton Pharmacy,564654,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-greerton-pharmacy/,pharmacy
 -37.668327815126354,176.1399096250534,Unichem Cherrywood Pharmacy,565498,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-cherrywood-pharmacy/,pharmacy
+-36.9111937,174.71705529999997,New Windsor Pharmacy,566949,https://www.healthpoint.co.nz/pharmacy/pharmacy/new-windsor-pharmacy/,pharmacy
 -36.8503776,174.7650025,Unichem Queen St Pharmacy,566974,https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-queen-st-pharmacy/,pharmacy
 -36.8803576,174.79647249999994,"320 Remuera Road, Remuera, Auckland",567238,https://www.healthpoint.co.nz/320-remuera-road-remuera-auckland/,pharmacy
 -36.094948,174.58742800000005,Mangawhai Pharmacy,567982,https://www.healthpoint.co.nz/pharmacy/pharmacy/mangawhai-pharmacy/,pharmacy
@@ -637,6 +653,7 @@ lat,lng,name,id,url,branch
 -36.8479925,174.7653682,Caring Clinic Doctors,662377,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/caring-clinic-doctors/,primary
 -36.7492265,174.72847090000005,Northcare Accident & Medical,672097,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/primary-healthcare-accident-medical/northcare-accident-medical/,primary
 -44.39012880000001,171.22338119999995,Dr Werkmeister's Practice,725387,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/dr-werkmeisters-practice/,primary
+-39.4272765,175.27927120000004,Ruapehu Health Limited,725442,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/ruapehu-health-limited/,primary
 -41.2936975,174.7786946,Wellworks Pharmacy Taranaki Street,734284,https://www.healthpoint.co.nz/pharmacy/pharmacy/wellworks-pharmacy-taranaki-street/,pharmacy
 -40.3633244,175.63396639999996,Village Medical,749337,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/village-medical/,primary
 -36.97489789999999,174.92300139999998,Flat Bush Medical Centre,751798,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/flat-bush-medical-centre/,primary
@@ -654,7 +671,6 @@ lat,lng,name,id,url,branch
 -37.64881949999999,176.19148719999998,Maunganui Road Pharmacy,813151,https://www.healthpoint.co.nz/pharmacy/pharmacy/maunganui-road-pharmacy/,pharmacy
 -36.7140995,174.74629100000004,"13-15 Bute Road, Browns Bay, Auckland",816612,https://www.healthpoint.co.nz/13-15-bute-road-browns-bay-auckland/,pharmacy
 -36.9336376,174.91187960000002,Botany Medical and Urgent Care,831402,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/primary-healthcare-accident-medical/botany-medical-and-urgent-care/,primary
--45.9201013,169.68970779999995,"43 Whitehaven Street, Lawrence",832996,https://www.healthpoint.co.nz/43-whitehaven-street-lawrence/,community
 -41.5295704,173.9339644,Omaka Landing Pharmacy,837015,https://www.healthpoint.co.nz/pharmacy/pharmacy/omaka-landing-pharmacy/,pharmacy
 -36.8658329,174.76406640000005,Grafton Medical Centre,839164,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/grafton-medical-centre/,primary
 -37.7963582,175.29479630000003,Hamilton Lake Clinic,840712,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/hamilton-lake-clinic/,primary
@@ -704,7 +720,6 @@ lat,lng,name,id,url,branch
 -35.73469119999999,174.3292319,Northland COVID-19 Vaccination Centres,1142867,https://www.healthpoint.co.nz/community-health-services/community-health/northland-covid-19-vaccination-centres/,community
 -35.4081541,173.79938059999995,Northland COVID-19 Vaccination Centres,1142867,https://www.healthpoint.co.nz/community-health-services/community-health/northland-covid-19-vaccination-centres/,community
 -35.2345938,173.9524167,Northland COVID-19 Vaccination Centres,1142867,https://www.healthpoint.co.nz/community-health-services/community-health/northland-covid-19-vaccination-centres/,community
--35.212164,173.9533541,Northland COVID-19 Vaccination Centres,1142867,https://www.healthpoint.co.nz/community-health-services/community-health/northland-covid-19-vaccination-centres/,community
 -35.11438539999999,173.2660678,Northland COVID-19 Vaccination Centres,1142867,https://www.healthpoint.co.nz/community-health-services/community-health/northland-covid-19-vaccination-centres/,community
 -36.8833807,174.6331328,"Henderson Vaccination Centre, 28 Catherine Street, Henderson",1142953,https://www.healthpoint.co.nz/henderson-vaccination-centre-28-catherine/,community
 -36.8228644,174.6118132,"Westgate Vaccination Centre, 11 Westgate Drive, Westgate",1142953,https://www.healthpoint.co.nz/westgate-vaccination-centre-11-westgate-drive/,community
@@ -712,6 +727,7 @@ lat,lng,name,id,url,branch
 -36.89232380000001,174.7748737,Central Auckland COVID-19 Vaccination Centres,1143026,https://www.healthpoint.co.nz/community-health-services/community-health/central-auckland-covid-19-vaccination-centres/,community
 -36.8464765,174.7587306,Central Auckland COVID-19 Vaccination Centres,1143026,https://www.healthpoint.co.nz/community-health-services/community-health/central-auckland-covid-19-vaccination-centres/,community
 -36.9364929,174.8806557,"Highbrook Vaccination Centre,  31 Highbrook Drive, East Tāmaki, Auckland",1143100,https://www.healthpoint.co.nz/highbrook-vaccination-centre-31-highbrook/,community
+-37.265481,174.9491943,South Auckland COVID-19 Vaccination Centres,1143106,https://www.healthpoint.co.nz/community-health-services/community-health/south-auckland-covid-19-vaccination-centres/,community
 -37.201594,174.9056792,"Pukekohe Vaccination Centre, 6 Roulston Street, Pukekohe",1143106,https://www.healthpoint.co.nz/pukekohe-vaccination-centre-6-roulston-street/,community
 -37.03390540000001,174.9088124,"Takanini Vaccination Centre, 8 Great South Road, Takanini",1143106,https://www.healthpoint.co.nz/takanini-vaccination-centre-8-great-south/,community
 -36.9904167,174.7884344,South Auckland COVID-19 Vaccination Centres,1143106,https://www.healthpoint.co.nz/community-health-services/community-health/south-auckland-covid-19-vaccination-centres/,community
@@ -761,7 +777,9 @@ lat,lng,name,id,url,branch
 -43.5425839,172.5253403,Maui Clinic @ The Hub Hornby,1167923,https://www.healthpoint.co.nz/community-health-services/community-health/maui-clinic-the-hub-hornby/,community
 -43.4820285,172.5532021,Orchard Road COVID-19 Vaccination Hub,1168094,https://www.healthpoint.co.nz/community-health-services/community-health/orchard-road-covid-19-vaccination-hub/,community
 -37.7808801,175.2362428,"New Nawton Shopping Centre, Hyde Avenue, Nawton, Hamilton",1168194,https://www.healthpoint.co.nz/new-nawton-shopping-centre-hyde-avenue-nawton/,community
+-35.7158389,174.5203375,Ki A Ora Ngātiwai,1168348,https://www.healthpoint.co.nz/community-health-services/community-health/ki-a-ora-ngatiwai/,community
 -35.6826017,174.3008766,Ki A Ora Ngātiwai,1168348,https://www.healthpoint.co.nz/community-health-services/community-health/ki-a-ora-ngatiwai/,community
+-35.6391629,174.3138655,Ki A Ora Ngātiwai,1168348,https://www.healthpoint.co.nz/community-health-services/community-health/ki-a-ora-ngatiwai/,community
 -35.5138028,174.454275,Ki A Ora Ngātiwai,1168348,https://www.healthpoint.co.nz/community-health-services/community-health/ki-a-ora-ngatiwai/,community
 -43.5384007,172.6302381,Etu Pasifika - COVID-19 Vaccination Centre,1168458,https://www.healthpoint.co.nz/community-health-services/community-health/etu-pasifika-covid-19-vaccination-centre-1/,community
 -40.2118909,176.09791,Dannevirke The Hub COVID-19 Vaccination Centre,1168465,https://www.healthpoint.co.nz/community-health-services/community-health/dannevirke-the-hub-covid-19-vaccination-centre/,community
@@ -789,7 +807,7 @@ lat,lng,name,id,url,branch
 -37.5610921,175.9150637,Western Bay of Plenty COVID-19 Vaccination Centre,1170209,https://www.healthpoint.co.nz/community-health-services/community-health/western-bay-of-plenty-covid-19-vaccination/,community
 -38.0959612,176.7077168,Eastern Bay of Plenty COVID-19 Vaccination Centres,1170231,https://www.healthpoint.co.nz/community-health-services/community-health/eastern-bay-of-plenty-covid-19-vaccination/,community
 -37.9499045,177.0003272,Eastern Bay of Plenty COVID-19 Vaccination Centres,1170231,https://www.healthpoint.co.nz/community-health-services/community-health/eastern-bay-of-plenty-covid-19-vaccination/,community
--38.6618465,178.0229811,Hauora Tairāwhiti Covid-19 Community Vaccination Centres,1170375,https://www.healthpoint.co.nz/community-health-services/community-health/hauora-tairawhiti-covid-19-community-vaccination/,community
+-38.6618465,178.0229811,"295 Palmerston Road, Gisborne",1170375,https://www.healthpoint.co.nz/295-palmerston-road-gisborne/,community
 -40.9556666,175.6509037,Tekau Mā Iwa COVID-19 Vaccination Centre,1170651,https://www.healthpoint.co.nz/community-health-services/community-health/tekau-ma-iwa-covid-19-vaccination-centre/,community
 -39.62235069999999,176.8153549,Te Taiwhenua o Heretaunga COVID-19 Vaccination Centre,1170661,https://www.healthpoint.co.nz/community-health-services/community-health/te-taiwhenua-o-heretaunga-covid-19-vaccination/,community
 -37.9622764,176.9819597,Te Puna Ora o Mataatua COVID-19 Vaccination Centre,1170761,https://www.healthpoint.co.nz/community-health-services/community-health/te-puna-ora-o-mataatua-covid-19-vaccination/,community
@@ -800,11 +818,6 @@ lat,lng,name,id,url,branch
 -40.90342950000001,175.0003199,Kapiti Community Covid-19 Vaccination Centre,1170871,https://www.healthpoint.co.nz/community-health-services/community-health/kapiti-community-covid-19-vaccination-centre/,community
 -36.9009216,174.85680909999996,Pasefika Family Health Group - Queens Road Medical Centre,1170933,https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/pasefika-family-health-group-queens-road/,primary
 -45.87021809999999,170.505518,"Meridian Mall, George Street, Dunedin Central, Dunedin",1171212,https://www.healthpoint.co.nz/meridian-mall-george-street-dunedin-central/,community
--38.7521555,177.9264382,Turanga Health COVID-19 Vaccination centres,1171438,https://www.healthpoint.co.nz/community-health-services/community-health/turanga-health-covid-19-vaccination-centres/,community
--38.6860416,177.7764204,Turanga Health COVID-19 Vaccination centres,1171438,https://www.healthpoint.co.nz/community-health-services/community-health/turanga-health-covid-19-vaccination-centres/,community
--38.6610017,177.9991076,Turanga Health COVID-19 Vaccination centres,1171438,https://www.healthpoint.co.nz/community-health-services/community-health/turanga-health-covid-19-vaccination-centres/,community
--38.6499393,177.9963608,Turanga Health COVID-19 Vaccination centres,1171438,https://www.healthpoint.co.nz/community-health-services/community-health/turanga-health-covid-19-vaccination-centres/,community
--38.5919609,177.9001617,Turanga Health COVID-19 Vaccination centres,1171438,https://www.healthpoint.co.nz/community-health-services/community-health/turanga-health-covid-19-vaccination-centres/,community
 -40.6450982,175.7051778,Eketāhuna COVID-19 Vaccination Centre,1171898,https://www.healthpoint.co.nz/community-health-services/community-health/eketahuna-covid-19-vaccination-centre/,community
 -40.7508366,175.1332101,Te Wānanga o Raukawa - Ngā Purapura COVID-19 Vaccination Centre,1171911,https://www.healthpoint.co.nz/community-health-services/community-health/te-wananga-o-raukawa-nga-purapura-covid-19/,community
 -40.6187385,175.2691783,Muaūpoko Tribal Authority COVID-19 Vaccination Centre,1172567,https://www.healthpoint.co.nz/community-health-services/community-health/muaupoko-tribal-authority-covid-19-vaccination/,community
@@ -830,25 +843,36 @@ lat,lng,name,id,url,branch
 -37.38195090000001,175.6734902,Te Korowai Hauora o Hauraki - Mobile COVID-19 Vaccination Service,1178834,https://www.healthpoint.co.nz/community-health-services/community-health/te-korowai-hauora-o-hauraki-mobile-covid/,community
 -37.37355489999999,175.6690281,Te Korowai Hauora o Hauraki - Mobile COVID-19 Vaccination Service,1178834,https://www.healthpoint.co.nz/community-health-services/community-health/te-korowai-hauora-o-hauraki-mobile-covid/,community
 -37.2917845,175.5429502,Te Korowai Hauora o Hauraki - Mobile COVID-19 Vaccination Service,1178834,https://www.healthpoint.co.nz/community-health-services/community-health/te-korowai-hauora-o-hauraki-mobile-covid/,community
+-37.21469099999999,175.1769625,Te Korowai Hauora o Hauraki - Mobile COVID-19 Vaccination Service,1178834,https://www.healthpoint.co.nz/community-health-services/community-health/te-korowai-hauora-o-hauraki-mobile-covid/,community
 -37.20349119999999,175.8689982,Te Korowai Hauora o Hauraki - Mobile COVID-19 Vaccination Service,1178834,https://www.healthpoint.co.nz/community-health-services/community-health/te-korowai-hauora-o-hauraki-mobile-covid/,community
+-37.085344,175.299375,Te Korowai Hauora o Hauraki - Mobile COVID-19 Vaccination Service,1178834,https://www.healthpoint.co.nz/community-health-services/community-health/te-korowai-hauora-o-hauraki-mobile-covid/,community
 -46.412614,168.352068,Civic Theatre – Invercargill COVID-19 Vaccination Centre,1179345,https://www.healthpoint.co.nz/community-health-services/community-health/civic-theatre-invercargill-covid-19-vaccination/,community
 -37.8020204,176.3743084,Te Manu Toroa COVID-19 Mobile Vaccination Clinics,1182096,https://www.healthpoint.co.nz/community-health-services/community-health/te-manu-toroa-covid-19-mobile-vaccination/,community
 -37.7796371,176.2941948,Te Manu Toroa COVID-19 Mobile Vaccination Clinics,1182096,https://www.healthpoint.co.nz/community-health-services/community-health/te-manu-toroa-covid-19-mobile-vaccination/,community
 -37.7101823,176.1843628,Te Manu Toroa COVID-19 Mobile Vaccination Clinics,1182096,https://www.healthpoint.co.nz/community-health-services/community-health/te-manu-toroa-covid-19-mobile-vaccination/,community
 -37.5612777,175.9169738,Te Manu Toroa COVID-19 Mobile Vaccination Clinics,1182096,https://www.healthpoint.co.nz/community-health-services/community-health/te-manu-toroa-covid-19-mobile-vaccination/,community
--45.9063193,170.5078472,Te Kāika  POP UP COVID-19 Vaccination Sites,1185111,https://www.healthpoint.co.nz/community-health-services/community-health/te-kaika-pop-up-covid-19-vaccination-sites/,community
+-45.9063193,170.5078472,Te Kāika COVID-19 Vaccination Site,1185111,https://www.healthpoint.co.nz/community-health-services/community-health/te-kaika-covid-19-vaccination-site/,community
 -37.6627976,175.15363,Tūrangawaewae Marae (Ngāruawāhia) Community Vaccination Centre,1185837,https://www.healthpoint.co.nz/community-health-services/community-health/turangawaewae-marae-ngaruawahia-community/,community
 -37.558343,175.1537373,Raahui Pookeka (Huntly) Community Vaccination Centre,1185921,https://www.healthpoint.co.nz/community-health-services/community-health/raahui-pookeka-huntly-community-vaccination/,community
 -37.7387094,175.7378734,Te Whare Hauora o Raungaiti COVID-19 Vaccination Centre,1185929,https://www.healthpoint.co.nz/community-health-services/community-health/te-whare-hauora-o-raungaiti-covid-19-vaccination/,community
--35.1709079,173.1539961,Te Hiku Hauora POP UP COVID Vaccination centres,1187788,https://www.healthpoint.co.nz/community-health-services/community-health/te-hiku-hauora-pop-up-covid-vaccination-centres/,community
+-35.2433,173.2150773,Te Hiku Hauora POP UP COVID Vaccination centres,1187788,https://www.healthpoint.co.nz/community-health-services/community-health/te-hiku-hauora-pop-up-covid-vaccination-centres/,community
+-35.1232301,173.2597965,Te Hiku Hauora POP UP COVID Vaccination centres,1187788,https://www.healthpoint.co.nz/community-health-services/community-health/te-hiku-hauora-pop-up-covid-vaccination-centres/,community
+-35.1215794,173.2585076,Te Hiku Hauora POP UP COVID Vaccination centres,1187788,https://www.healthpoint.co.nz/community-health-services/community-health/te-hiku-hauora-pop-up-covid-vaccination-centres/,community
 -35.120037,173.260757,Te Hiku Hauora POP UP COVID Vaccination centres,1187788,https://www.healthpoint.co.nz/community-health-services/community-health/te-hiku-hauora-pop-up-covid-vaccination-centres/,community
--34.9973314,173.4631821,Te Hiku Hauora POP UP COVID Vaccination centres,1187788,https://www.healthpoint.co.nz/community-health-services/community-health/te-hiku-hauora-pop-up-covid-vaccination-centres/,community
+-35.1159177,173.2634268,Te Hiku Hauora POP UP COVID Vaccination centres,1187788,https://www.healthpoint.co.nz/community-health-services/community-health/te-hiku-hauora-pop-up-covid-vaccination-centres/,community
+-35.1112459,173.2563565,Te Hiku Hauora POP UP COVID Vaccination centres,1187788,https://www.healthpoint.co.nz/community-health-services/community-health/te-hiku-hauora-pop-up-covid-vaccination-centres/,community
+-35.0441061,173.2554933,Te Hiku Hauora POP UP COVID Vaccination centres,1187788,https://www.healthpoint.co.nz/community-health-services/community-health/te-hiku-hauora-pop-up-covid-vaccination-centres/,community
+-34.8689538,173.3809278,Te Hiku Hauora POP UP COVID Vaccination centres,1187788,https://www.healthpoint.co.nz/community-health-services/community-health/te-hiku-hauora-pop-up-covid-vaccination-centres/,community
 -46.2404588,169.7439399,Balclutha POP UP Covid-19 Vaccination Centre ,1191309,https://www.healthpoint.co.nz/community-health-services/community-health/balclutha-pop-up-covid-19-vaccination-centre/,community
 -44.3602852,171.2400004,Timaru Occupational Health Services ,1191319,https://www.healthpoint.co.nz/community-health-services/community-health/timaru-occupational-health-services/,community
 -43.5466927,172.6928816,Tangata Atumotu Mobile COVID-19 Vaccination Centres,1196075,https://www.healthpoint.co.nz/community-health-services/community-health/tangata-atumotu-mobile-covid-19-vaccination/,community
 -43.5170424,172.6323721,MIHI Māori COVID-19 Vaccination Centres (Rehua Marae & Other Community Sites),1198036,https://www.healthpoint.co.nz/community-health-services/community-health/mihi-maori-covid-19-vaccination-centres-rehua/,community
--35.2100791,173.9173278,Northland COVID-19 POP UP Vaccination Centres,1200295,https://www.healthpoint.co.nz/community-health-services/community-health/northland-covid-19-pop-up-vaccination-centres/,community
+-36.1627778,174.4441667,Northland COVID-19 POP UP Vaccination Centres,1200295,https://www.healthpoint.co.nz/community-health-services/community-health/northland-covid-19-pop-up-vaccination-centres/,community
+-35.938922,173.874443,Northland COVID-19 POP UP Vaccination Centres,1200295,https://www.healthpoint.co.nz/community-health-services/community-health/northland-covid-19-pop-up-vaccination-centres/,community
+-35.732278,174.0585802,Northland COVID-19 POP UP Vaccination Centres,1200295,https://www.healthpoint.co.nz/community-health-services/community-health/northland-covid-19-pop-up-vaccination-centres/,community
+-35.684719,174.3211799,Northland COVID-19 POP UP Vaccination Centres,1200295,https://www.healthpoint.co.nz/community-health-services/community-health/northland-covid-19-pop-up-vaccination-centres/,community
 -35.09933880000001,173.2591478,Northland COVID-19 POP UP Vaccination Centres,1200295,https://www.healthpoint.co.nz/community-health-services/community-health/northland-covid-19-pop-up-vaccination-centres/,community
+-35.0980668,173.2602104,Northland COVID-19 POP UP Vaccination Centres,1200295,https://www.healthpoint.co.nz/community-health-services/community-health/northland-covid-19-pop-up-vaccination-centres/,community
 -45.73673449999999,168.4427896,Lumsden COVID-19 Vaccination Centre ,1200623,https://www.healthpoint.co.nz/community-health-services/community-health/lumsden-covid-19-vaccination-centre/,community
 -39.4978101,176.91705619999993,Te Kupenga Hauora Ahuriri COVID-19 Vaccination Clinic,1201480,https://www.healthpoint.co.nz/community-health-services/community-health/te-kupenga-hauora-ahuriri-covid-19-vaccination/,community
 -41.2473036,174.7919669,Khandallah Presbyterian Church COVID-19 Vaccine Clinic,1202769,https://www.healthpoint.co.nz/community-health-services/community-health/khandallah-presbyterian-church-covid-19-vaccine/,community
@@ -859,14 +883,6 @@ lat,lng,name,id,url,branch
 -38.1244973,176.2292294,"Te Arawa COVID-19 Response Hub ""Drive-through"" COVID-19 Vaccination centre",1204760,https://www.healthpoint.co.nz/community-health-services/community-health/te-arawa-covid-19-response-hub-drive-through/,community
 -43.5379715,172.635353,Māui Clinic @ South City - COVID-19 Vaccination Centre,1204807,https://www.healthpoint.co.nz/community-health-services/community-health/maui-clinic-south-city-covid-19-vaccination/,community
 -37.7778287,175.2663051,Waikato COVID-19 POP UP Vaccination centres ,1205269,https://www.healthpoint.co.nz/community-health-services/community-health/waikato-covid-19-pop-up-vaccination-centres/,community
--35.5556356,173.4758511,Hauora Hokianga COVID-19 POP UP Vaccination Sites ,1207005,https://www.healthpoint.co.nz/community-health-services/community-health/hauora-hokianga-covid-19-pop-up-vaccination/,community
--35.4981737,173.6976043,Hauora Hokianga COVID-19 POP UP Vaccination Sites ,1207005,https://www.healthpoint.co.nz/community-health-services/community-health/hauora-hokianga-covid-19-pop-up-vaccination/,community
--35.4678068,173.4601317,Hauora Hokianga COVID-19 POP UP Vaccination Sites ,1207005,https://www.healthpoint.co.nz/community-health-services/community-health/hauora-hokianga-covid-19-pop-up-vaccination/,community
--35.4397978,173.2853759,Hauora Hokianga COVID-19 POP UP Vaccination Sites ,1207005,https://www.healthpoint.co.nz/community-health-services/community-health/hauora-hokianga-covid-19-pop-up-vaccination/,community
--35.3815537,173.384145,"Panguru Clinic, 2189 West Coast Road, Panguru",1207005,https://www.healthpoint.co.nz/panguru-clinic-2189-west-coast-road-panguru/,community
--35.3564349,173.5922226,Hauora Hokianga COVID-19 POP UP Vaccination Sites ,1207005,https://www.healthpoint.co.nz/community-health-services/community-health/hauora-hokianga-covid-19-pop-up-vaccination/,community
--35.3213013,173.32737889999999,"Pawarenga Clinic, 1026 Pawarenga Road, Pawarenga",1207005,https://www.healthpoint.co.nz/pawarenga-clinic-1026-pawarenga-road-pawarenga/,community
--35.2371919,173.5431616,Hauora Hokianga COVID-19 POP UP Vaccination Sites ,1207005,https://www.healthpoint.co.nz/community-health-services/community-health/hauora-hokianga-covid-19-pop-up-vaccination/,community
 -46.6225173,169.134877,Waikawa Niagara COVID-19 Vaccination Centre,1208019,https://www.healthpoint.co.nz/community-health-services/community-health/waikawa-niagara-covid-19-vaccination-centre/,community
 -39.5164267,176.8574307,Taradale Club COVID-19 Vaccination Centre,1214159,https://www.healthpoint.co.nz/community-health-services/community-health/taradale-club-covid-19-vaccination-centre/,community
 -39.64322249999999,176.8354083,Hastings Racecourse COVID-19 Vaccination Centre,1214163,https://www.healthpoint.co.nz/community-health-services/community-health/hastings-racecourse-covid-19-vaccination/,community
@@ -874,3 +890,4 @@ lat,lng,name,id,url,branch
 -39.5085078,176.9082498,Whitmore Park COVID-19 Vaccination Drive Thru ,1214175,https://www.healthpoint.co.nz/community-health-services/community-health/whitmore-park-covid-19-vaccination-drive/,community
 -41.31702019999999,174.8171392,Peninsula Medical COVID-19 Vaccination Centre ,1214194,https://www.healthpoint.co.nz/community-health-services/community-health/peninsula-medical-covid-19-vaccination-centre/,community
 -41.2103867,174.9343568,The Delta Buster COVID-19 Vaccination Bus,1218178,https://www.healthpoint.co.nz/community-health-services/community-health/the-delta-buster-covid-19-vaccination-bus/,community
+-46.1988783,168.8598637,Southern Region COVID-19 POP UP Vaccination Sites ,1224605,https://www.healthpoint.co.nz/community-health-services/community-health/southern-region-covid-19-pop-up-vaccination/,community

@@ -1158,6 +1158,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    174.77257910000003,
+                    -36.7906436
+                ]
+            },
+            "properties": {
+                "lat": -36.7906436,
+                "lng": 174.77257910000003,
+                "name": "Byron Medical ",
+                "id": 213286,
+                "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/byron-medical/",
+                "branch": "primary"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     174.57930609999994,
                     -36.8660651
                 ]
@@ -1471,9 +1489,9 @@
             "properties": {
                 "lat": -36.78410793838575,
                 "lng": 174.7535079717636,
-                "name": "Shorecare Urgent Care Smales Farm",
+                "name": "Smales Farm Technology Office Park, 74 Taharoto Road, Takapuna, Auckland",
                 "id": 309981,
-                "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/primary-healthcare-accident-medical/shorecare-urgent-care-smales-farm/",
+                "url": "https://www.healthpoint.co.nz/smales-farm-technology-office-park-74-taharoto/",
                 "branch": "primary"
             }
         },
@@ -1582,24 +1600,6 @@
                 "name": "Local Doctors Dawson",
                 "id": 317356,
                 "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/primary-healthcare-accident-medical/local-doctors-dawson/",
-                "branch": "primary"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    174.88783439999995,
-                    -36.9610281
-                ]
-            },
-            "properties": {
-                "lat": -36.9610281,
-                "lng": 174.88783439999995,
-                "name": "Local Doctors East Tamaki",
-                "id": 317418,
-                "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/local-doctors-east-tamaki/",
                 "branch": "primary"
             }
         },
@@ -1834,6 +1834,24 @@
                 "name": "Fellbrook Medical Centre",
                 "id": 322045,
                 "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/fellbrook-medical-centre/",
+                "branch": "primary"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.8982629,
+                    -36.8810887
+                ]
+            },
+            "properties": {
+                "lat": -36.8810887,
+                "lng": 174.8982629,
+                "name": "Marina Medical",
+                "id": 322889,
+                "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/marina-medical/",
                 "branch": "primary"
             }
         },
@@ -2958,6 +2976,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    174.6324161,
+                    -36.8827281
+                ]
+            },
+            "properties": {
+                "lat": -36.8827281,
+                "lng": 174.6324161,
+                "name": "Unichem Waiora Pharmacy",
+                "id": 462240,
+                "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-waiora-pharmacy/",
+                "branch": "pharmacy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     174.75062309999998,
                     -36.8778145
                 ]
@@ -3238,6 +3274,24 @@
                 "name": "Unichem Massey Pharmacy",
                 "id": 462973,
                 "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-massey-pharmacy/",
+                "branch": "pharmacy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7457822,
+                    -36.8011217
+                ]
+            },
+            "properties": {
+                "lat": -36.8011217,
+                "lng": 174.7457822,
+                "name": "Northcote Family Pharmacy",
+                "id": 463004,
+                "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/northcote-family-pharmacy/",
                 "branch": "pharmacy"
             }
         },
@@ -3606,6 +3660,42 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    174.65176109999993,
+                    -36.91029229999999
+                ]
+            },
+            "properties": {
+                "lat": -36.91029229999999,
+                "lng": 174.65176109999993,
+                "name": "Glen Eden Pharmacy",
+                "id": 463809,
+                "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/glen-eden-pharmacy/",
+                "branch": "pharmacy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.74513780000007,
+                    -36.7893879
+                ]
+            },
+            "properties": {
+                "lat": -36.7893879,
+                "lng": 174.74513780000007,
+                "name": "Sunnybrae Pharmacy",
+                "id": 463829,
+                "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/sunnybrae-pharmacy/",
+                "branch": "pharmacy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     174.74791979999998,
                     -36.6363653
                 ]
@@ -3652,6 +3742,24 @@
                 "name": "Unichem Milford Pharmacy",
                 "id": 464067,
                 "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-milford-pharmacy/",
+                "branch": "pharmacy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.92564259999995,
+                    -36.90245770000001
+                ]
+            },
+            "properties": {
+                "lat": -36.90245770000001,
+                "lng": 174.92564259999995,
+                "name": "Unichem John Savory Pharmacy",
+                "id": 464116,
+                "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-john-savory-pharmacy/",
                 "branch": "pharmacy"
             }
         },
@@ -4650,6 +4758,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    172.595148,
+                    -43.49125799999999
+                ]
+            },
+            "properties": {
+                "lat": -43.49125799999999,
+                "lng": 172.595148,
+                "name": "Harewood Medical Centre",
+                "id": 535075,
+                "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/harewood-medical-centre/",
+                "branch": "primary"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     172.594421,
                     -43.554473
                 ]
@@ -5056,6 +5182,24 @@
                 "name": "Selwyn Village Healthcare",
                 "id": 535282,
                 "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/selwyn-village-healthcare/",
+                "branch": "primary"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6548636,
+                    -43.5592762
+                ]
+            },
+            "properties": {
+                "lat": -43.5592762,
+                "lng": 172.6548636,
+                "name": "St Martins Medical Practice",
+                "id": 535300,
+                "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/st-martins-medical-practice/",
                 "branch": "primary"
             }
         },
@@ -5686,6 +5830,24 @@
                 "name": "Christchurch Central Pharmacy",
                 "id": 535654,
                 "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/christchurch-central-pharmacy/",
+                "branch": "pharmacy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.61404330000005,
+                    -43.5424395
+                ]
+            },
+            "properties": {
+                "lat": -43.5424395,
+                "lng": 172.61404330000005,
+                "name": "Addington Pharmacy",
+                "id": 535657,
+                "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/addington-pharmacy/",
                 "branch": "pharmacy"
             }
         },
@@ -6756,6 +6918,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    169.68970779999995,
+                    -45.9201013
+                ]
+            },
+            "properties": {
+                "lat": -45.9201013,
+                "lng": 169.68970779999995,
+                "name": "Tuapeka Community Health",
+                "id": 536441,
+                "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/tuapeka-community-health-1/",
+                "branch": "primary"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     170.5008056,
                     -45.8580816
                 ]
@@ -7343,24 +7523,6 @@
                 "id": 536624,
                 "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-mornington-pharmacy/",
                 "branch": "pharmacy"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    174.7635805,
-                    -41.3048528
-                ]
-            },
-            "properties": {
-                "lat": -41.3048528,
-                "lng": 174.7635805,
-                "name": "Brooklyn Central Health",
-                "id": 536645,
-                "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/brooklyn-central-health/",
-                "branch": "primary"
             }
         },
         {
@@ -8124,6 +8286,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    175.0680507,
+                    -41.124592
+                ]
+            },
+            "properties": {
+                "lat": -41.124592,
+                "lng": 175.0680507,
+                "name": "Unichem Maidstone Pharmacy",
+                "id": 537156,
+                "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-maidstone-pharmacy/",
+                "branch": "pharmacy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     175.01178800000002,
                     -41.147726
                 ]
@@ -8437,9 +8617,9 @@
             "properties": {
                 "lat": -39.64274890000001,
                 "lng": 176.84284939999998,
-                "name": "Unichem Russell Street Pharmacy",
+                "name": "110 Russell Street South, Hastings",
                 "id": 537433,
-                "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-russell-street-pharmacy/",
+                "url": "https://www.healthpoint.co.nz/110-russell-street-south-hastings/",
                 "branch": "pharmacy"
             }
         },
@@ -8512,6 +8692,24 @@
                 "name": "Living Waters Medical",
                 "id": 537519,
                 "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/living-waters-medical/",
+                "branch": "primary"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.04036759999997,
+                    -39.92484090000001
+                ]
+            },
+            "properties": {
+                "lat": -39.92484090000001,
+                "lng": 175.04036759999997,
+                "name": "St Johns Medical Centre",
+                "id": 537540,
+                "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/st-johns-medical-centre/",
                 "branch": "primary"
             }
         },
@@ -9852,6 +10050,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    175.28714719999994,
+                    -37.7618481
+                ]
+            },
+            "properties": {
+                "lat": -37.7618481,
+                "lng": 175.28714719999994,
+                "name": "Tui Medical - Davies Corner",
+                "id": 538428,
+                "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/tui-medical-davies-corner/",
+                "branch": "primary"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     175.27336835861206,
                     -37.78358267475688
                 ]
@@ -10392,6 +10608,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    173.384145,
+                    -35.3815537
+                ]
+            },
+            "properties": {
+                "lat": -35.3815537,
+                "lng": 173.384145,
+                "name": "Hauora Hokianga / Hokianga Health",
+                "id": 538791,
+                "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/hauora-hokianga-hokianga-health/",
+                "branch": "primary"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     173.54335963726044,
                     -35.3635978360611
                 ]
@@ -10417,6 +10651,24 @@
             "properties": {
                 "lat": -35.3565982,
                 "lng": 173.59365309999998,
+                "name": "Hauora Hokianga / Hokianga Health",
+                "id": 538791,
+                "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/hauora-hokianga-hokianga-health/",
+                "branch": "primary"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.3273789,
+                    -35.3213013
+                ]
+            },
+            "properties": {
+                "lat": -35.3213013,
+                "lng": 173.3273789,
                 "name": "Hauora Hokianga / Hokianga Health",
                 "id": 538791,
                 "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/hauora-hokianga-hokianga-health/",
@@ -10824,6 +11076,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    176.1394904,
+                    -37.6666236
+                ]
+            },
+            "properties": {
+                "lat": -37.6666236,
+                "lng": 176.1394904,
+                "name": "Otumoetai Doctors",
+                "id": 539150,
+                "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/otumoetai-doctors/",
+                "branch": "primary"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     176.28226070000005,
                     -37.70117340000001
                 ]
@@ -11032,6 +11302,24 @@
                 "name": "Unichem Cherrywood Pharmacy",
                 "id": 565498,
                 "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-cherrywood-pharmacy/",
+                "branch": "pharmacy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.71705529999997,
+                    -36.9111937
+                ]
+            },
+            "properties": {
+                "lat": -36.9111937,
+                "lng": 174.71705529999997,
+                "name": "New Windsor Pharmacy",
+                "id": 566949,
+                "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/new-windsor-pharmacy/",
                 "branch": "pharmacy"
             }
         },
@@ -11490,6 +11778,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    175.27927120000004,
+                    -39.4272765
+                ]
+            },
+            "properties": {
+                "lat": -39.4272765,
+                "lng": 175.27927120000004,
+                "name": "Ruapehu Health Limited",
+                "id": 725442,
+                "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/ruapehu-health-limited/",
+                "branch": "primary"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     174.7786946,
                     -41.2936975
                 ]
@@ -11789,24 +12095,6 @@
                 "id": 831402,
                 "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/primary-healthcare-accident-medical/botany-medical-and-urgent-care/",
                 "branch": "primary"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    169.68970779999995,
-                    -45.9201013
-                ]
-            },
-            "properties": {
-                "lat": -45.9201013,
-                "lng": 169.68970779999995,
-                "name": "43 Whitehaven Street, Lawrence",
-                "id": 832996,
-                "url": "https://www.healthpoint.co.nz/43-whitehaven-street-lawrence/",
-                "branch": "community"
             }
         },
         {
@@ -12696,24 +12984,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    173.9533541,
-                    -35.212164
-                ]
-            },
-            "properties": {
-                "lat": -35.212164,
-                "lng": 173.9533541,
-                "name": "Northland COVID-19 Vaccination Centres",
-                "id": 1142867,
-                "url": "https://www.healthpoint.co.nz/community-health-services/community-health/northland-covid-19-vaccination-centres/",
-                "branch": "community"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     173.2660678,
                     -35.11438539999999
                 ]
@@ -12832,6 +13102,24 @@
                 "name": "Highbrook Vaccination Centre,  31 Highbrook Drive, East T\u0101maki, Auckland",
                 "id": 1143100,
                 "url": "https://www.healthpoint.co.nz/highbrook-vaccination-centre-31-highbrook/",
+                "branch": "community"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.9491943,
+                    -37.265481
+                ]
+            },
+            "properties": {
+                "lat": -37.265481,
+                "lng": 174.9491943,
+                "name": "South Auckland COVID-19 Vaccination Centres",
+                "id": 1143106,
+                "url": "https://www.healthpoint.co.nz/community-health-services/community-health/south-auckland-covid-19-vaccination-centres/",
                 "branch": "community"
             }
         },
@@ -13722,6 +14010,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    174.5203375,
+                    -35.7158389
+                ]
+            },
+            "properties": {
+                "lat": -35.7158389,
+                "lng": 174.5203375,
+                "name": "Ki A Ora Ng\u0101tiwai",
+                "id": 1168348,
+                "url": "https://www.healthpoint.co.nz/community-health-services/community-health/ki-a-ora-ngatiwai/",
+                "branch": "community"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     174.3008766,
                     -35.6826017
                 ]
@@ -13729,6 +14035,24 @@
             "properties": {
                 "lat": -35.6826017,
                 "lng": 174.3008766,
+                "name": "Ki A Ora Ng\u0101tiwai",
+                "id": 1168348,
+                "url": "https://www.healthpoint.co.nz/community-health-services/community-health/ki-a-ora-ngatiwai/",
+                "branch": "community"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.3138655,
+                    -35.6391629
+                ]
+            },
+            "properties": {
+                "lat": -35.6391629,
+                "lng": 174.3138655,
                 "name": "Ki A Ora Ng\u0101tiwai",
                 "id": 1168348,
                 "url": "https://www.healthpoint.co.nz/community-health-services/community-health/ki-a-ora-ngatiwai/",
@@ -14233,9 +14557,9 @@
             "properties": {
                 "lat": -38.6618465,
                 "lng": 178.0229811,
-                "name": "Hauora Tair\u0101whiti Covid-19 Community Vaccination Centres",
+                "name": "295 Palmerston Road, Gisborne",
                 "id": 1170375,
-                "url": "https://www.healthpoint.co.nz/community-health-services/community-health/hauora-tairawhiti-covid-19-community-vaccination/",
+                "url": "https://www.healthpoint.co.nz/295-palmerston-road-gisborne/",
                 "branch": "community"
             }
         },
@@ -14416,96 +14740,6 @@
                 "name": "Meridian Mall, George Street, Dunedin Central, Dunedin",
                 "id": 1171212,
                 "url": "https://www.healthpoint.co.nz/meridian-mall-george-street-dunedin-central/",
-                "branch": "community"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    177.9264382,
-                    -38.7521555
-                ]
-            },
-            "properties": {
-                "lat": -38.7521555,
-                "lng": 177.9264382,
-                "name": "Turanga Health COVID-19 Vaccination centres",
-                "id": 1171438,
-                "url": "https://www.healthpoint.co.nz/community-health-services/community-health/turanga-health-covid-19-vaccination-centres/",
-                "branch": "community"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    177.7764204,
-                    -38.6860416
-                ]
-            },
-            "properties": {
-                "lat": -38.6860416,
-                "lng": 177.7764204,
-                "name": "Turanga Health COVID-19 Vaccination centres",
-                "id": 1171438,
-                "url": "https://www.healthpoint.co.nz/community-health-services/community-health/turanga-health-covid-19-vaccination-centres/",
-                "branch": "community"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    177.9991076,
-                    -38.6610017
-                ]
-            },
-            "properties": {
-                "lat": -38.6610017,
-                "lng": 177.9991076,
-                "name": "Turanga Health COVID-19 Vaccination centres",
-                "id": 1171438,
-                "url": "https://www.healthpoint.co.nz/community-health-services/community-health/turanga-health-covid-19-vaccination-centres/",
-                "branch": "community"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    177.9963608,
-                    -38.6499393
-                ]
-            },
-            "properties": {
-                "lat": -38.6499393,
-                "lng": 177.9963608,
-                "name": "Turanga Health COVID-19 Vaccination centres",
-                "id": 1171438,
-                "url": "https://www.healthpoint.co.nz/community-health-services/community-health/turanga-health-covid-19-vaccination-centres/",
-                "branch": "community"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    177.9001617,
-                    -38.5919609
-                ]
-            },
-            "properties": {
-                "lat": -38.5919609,
-                "lng": 177.9001617,
-                "name": "Turanga Health COVID-19 Vaccination centres",
-                "id": 1171438,
-                "url": "https://www.healthpoint.co.nz/community-health-services/community-health/turanga-health-covid-19-vaccination-centres/",
                 "branch": "community"
             }
         },
@@ -14964,6 +15198,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    175.1769625,
+                    -37.21469099999999
+                ]
+            },
+            "properties": {
+                "lat": -37.21469099999999,
+                "lng": 175.1769625,
+                "name": "Te Korowai Hauora o Hauraki - Mobile COVID-19 Vaccination Service",
+                "id": 1178834,
+                "url": "https://www.healthpoint.co.nz/community-health-services/community-health/te-korowai-hauora-o-hauraki-mobile-covid/",
+                "branch": "community"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     175.8689982,
                     -37.20349119999999
                 ]
@@ -14971,6 +15223,24 @@
             "properties": {
                 "lat": -37.20349119999999,
                 "lng": 175.8689982,
+                "name": "Te Korowai Hauora o Hauraki - Mobile COVID-19 Vaccination Service",
+                "id": 1178834,
+                "url": "https://www.healthpoint.co.nz/community-health-services/community-health/te-korowai-hauora-o-hauraki-mobile-covid/",
+                "branch": "community"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.299375,
+                    -37.085344
+                ]
+            },
+            "properties": {
+                "lat": -37.085344,
+                "lng": 175.299375,
                 "name": "Te Korowai Hauora o Hauraki - Mobile COVID-19 Vaccination Service",
                 "id": 1178834,
                 "url": "https://www.healthpoint.co.nz/community-health-services/community-health/te-korowai-hauora-o-hauraki-mobile-covid/",
@@ -15079,9 +15349,9 @@
             "properties": {
                 "lat": -45.9063193,
                 "lng": 170.5078472,
-                "name": "Te K\u0101ika  POP UP COVID-19 Vaccination Sites",
+                "name": "Te K\u0101ika COVID-19 Vaccination Site",
                 "id": 1185111,
-                "url": "https://www.healthpoint.co.nz/community-health-services/community-health/te-kaika-pop-up-covid-19-vaccination-sites/",
+                "url": "https://www.healthpoint.co.nz/community-health-services/community-health/te-kaika-covid-19-vaccination-site/",
                 "branch": "community"
             }
         },
@@ -15144,13 +15414,49 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    173.1539961,
-                    -35.1709079
+                    173.2150773,
+                    -35.2433
                 ]
             },
             "properties": {
-                "lat": -35.1709079,
-                "lng": 173.1539961,
+                "lat": -35.2433,
+                "lng": 173.2150773,
+                "name": "Te Hiku Hauora POP UP COVID Vaccination centres",
+                "id": 1187788,
+                "url": "https://www.healthpoint.co.nz/community-health-services/community-health/te-hiku-hauora-pop-up-covid-vaccination-centres/",
+                "branch": "community"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.2597965,
+                    -35.1232301
+                ]
+            },
+            "properties": {
+                "lat": -35.1232301,
+                "lng": 173.2597965,
+                "name": "Te Hiku Hauora POP UP COVID Vaccination centres",
+                "id": 1187788,
+                "url": "https://www.healthpoint.co.nz/community-health-services/community-health/te-hiku-hauora-pop-up-covid-vaccination-centres/",
+                "branch": "community"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.2585076,
+                    -35.1215794
+                ]
+            },
+            "properties": {
+                "lat": -35.1215794,
+                "lng": 173.2585076,
                 "name": "Te Hiku Hauora POP UP COVID Vaccination centres",
                 "id": 1187788,
                 "url": "https://www.healthpoint.co.nz/community-health-services/community-health/te-hiku-hauora-pop-up-covid-vaccination-centres/",
@@ -15180,13 +15486,67 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    173.4631821,
-                    -34.9973314
+                    173.2634268,
+                    -35.1159177
                 ]
             },
             "properties": {
-                "lat": -34.9973314,
-                "lng": 173.4631821,
+                "lat": -35.1159177,
+                "lng": 173.2634268,
+                "name": "Te Hiku Hauora POP UP COVID Vaccination centres",
+                "id": 1187788,
+                "url": "https://www.healthpoint.co.nz/community-health-services/community-health/te-hiku-hauora-pop-up-covid-vaccination-centres/",
+                "branch": "community"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.2563565,
+                    -35.1112459
+                ]
+            },
+            "properties": {
+                "lat": -35.1112459,
+                "lng": 173.2563565,
+                "name": "Te Hiku Hauora POP UP COVID Vaccination centres",
+                "id": 1187788,
+                "url": "https://www.healthpoint.co.nz/community-health-services/community-health/te-hiku-hauora-pop-up-covid-vaccination-centres/",
+                "branch": "community"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.2554933,
+                    -35.0441061
+                ]
+            },
+            "properties": {
+                "lat": -35.0441061,
+                "lng": 173.2554933,
+                "name": "Te Hiku Hauora POP UP COVID Vaccination centres",
+                "id": 1187788,
+                "url": "https://www.healthpoint.co.nz/community-health-services/community-health/te-hiku-hauora-pop-up-covid-vaccination-centres/",
+                "branch": "community"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.3809278,
+                    -34.8689538
+                ]
+            },
+            "properties": {
+                "lat": -34.8689538,
+                "lng": 173.3809278,
                 "name": "Te Hiku Hauora POP UP COVID Vaccination centres",
                 "id": 1187788,
                 "url": "https://www.healthpoint.co.nz/community-health-services/community-health/te-hiku-hauora-pop-up-covid-vaccination-centres/",
@@ -15270,13 +15630,67 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    173.9173278,
-                    -35.2100791
+                    174.4441667,
+                    -36.1627778
                 ]
             },
             "properties": {
-                "lat": -35.2100791,
-                "lng": 173.9173278,
+                "lat": -36.1627778,
+                "lng": 174.4441667,
+                "name": "Northland COVID-19 POP UP Vaccination Centres",
+                "id": 1200295,
+                "url": "https://www.healthpoint.co.nz/community-health-services/community-health/northland-covid-19-pop-up-vaccination-centres/",
+                "branch": "community"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.874443,
+                    -35.938922
+                ]
+            },
+            "properties": {
+                "lat": -35.938922,
+                "lng": 173.874443,
+                "name": "Northland COVID-19 POP UP Vaccination Centres",
+                "id": 1200295,
+                "url": "https://www.healthpoint.co.nz/community-health-services/community-health/northland-covid-19-pop-up-vaccination-centres/",
+                "branch": "community"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.0585802,
+                    -35.732278
+                ]
+            },
+            "properties": {
+                "lat": -35.732278,
+                "lng": 174.0585802,
+                "name": "Northland COVID-19 POP UP Vaccination Centres",
+                "id": 1200295,
+                "url": "https://www.healthpoint.co.nz/community-health-services/community-health/northland-covid-19-pop-up-vaccination-centres/",
+                "branch": "community"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.3211799,
+                    -35.684719
+                ]
+            },
+            "properties": {
+                "lat": -35.684719,
+                "lng": 174.3211799,
                 "name": "Northland COVID-19 POP UP Vaccination Centres",
                 "id": 1200295,
                 "url": "https://www.healthpoint.co.nz/community-health-services/community-health/northland-covid-19-pop-up-vaccination-centres/",
@@ -15295,6 +15709,24 @@
             "properties": {
                 "lat": -35.09933880000001,
                 "lng": 173.2591478,
+                "name": "Northland COVID-19 POP UP Vaccination Centres",
+                "id": 1200295,
+                "url": "https://www.healthpoint.co.nz/community-health-services/community-health/northland-covid-19-pop-up-vaccination-centres/",
+                "branch": "community"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.2602104,
+                    -35.0980668
+                ]
+            },
+            "properties": {
+                "lat": -35.0980668,
+                "lng": 173.2602104,
                 "name": "Northland COVID-19 POP UP Vaccination Centres",
                 "id": 1200295,
                 "url": "https://www.healthpoint.co.nz/community-health-services/community-health/northland-covid-19-pop-up-vaccination-centres/",
@@ -15486,150 +15918,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    173.4758511,
-                    -35.5556356
-                ]
-            },
-            "properties": {
-                "lat": -35.5556356,
-                "lng": 173.4758511,
-                "name": "Hauora Hokianga COVID-19 POP UP Vaccination Sites ",
-                "id": 1207005,
-                "url": "https://www.healthpoint.co.nz/community-health-services/community-health/hauora-hokianga-covid-19-pop-up-vaccination/",
-                "branch": "community"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    173.6976043,
-                    -35.4981737
-                ]
-            },
-            "properties": {
-                "lat": -35.4981737,
-                "lng": 173.6976043,
-                "name": "Hauora Hokianga COVID-19 POP UP Vaccination Sites ",
-                "id": 1207005,
-                "url": "https://www.healthpoint.co.nz/community-health-services/community-health/hauora-hokianga-covid-19-pop-up-vaccination/",
-                "branch": "community"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    173.4601317,
-                    -35.4678068
-                ]
-            },
-            "properties": {
-                "lat": -35.4678068,
-                "lng": 173.4601317,
-                "name": "Hauora Hokianga COVID-19 POP UP Vaccination Sites ",
-                "id": 1207005,
-                "url": "https://www.healthpoint.co.nz/community-health-services/community-health/hauora-hokianga-covid-19-pop-up-vaccination/",
-                "branch": "community"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    173.2853759,
-                    -35.4397978
-                ]
-            },
-            "properties": {
-                "lat": -35.4397978,
-                "lng": 173.2853759,
-                "name": "Hauora Hokianga COVID-19 POP UP Vaccination Sites ",
-                "id": 1207005,
-                "url": "https://www.healthpoint.co.nz/community-health-services/community-health/hauora-hokianga-covid-19-pop-up-vaccination/",
-                "branch": "community"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    173.384145,
-                    -35.3815537
-                ]
-            },
-            "properties": {
-                "lat": -35.3815537,
-                "lng": 173.384145,
-                "name": "Panguru Clinic, 2189 West Coast Road, Panguru",
-                "id": 1207005,
-                "url": "https://www.healthpoint.co.nz/panguru-clinic-2189-west-coast-road-panguru/",
-                "branch": "community"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    173.5922226,
-                    -35.3564349
-                ]
-            },
-            "properties": {
-                "lat": -35.3564349,
-                "lng": 173.5922226,
-                "name": "Hauora Hokianga COVID-19 POP UP Vaccination Sites ",
-                "id": 1207005,
-                "url": "https://www.healthpoint.co.nz/community-health-services/community-health/hauora-hokianga-covid-19-pop-up-vaccination/",
-                "branch": "community"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    173.3273789,
-                    -35.3213013
-                ]
-            },
-            "properties": {
-                "lat": -35.3213013,
-                "lng": 173.3273789,
-                "name": "Pawarenga Clinic, 1026 Pawarenga Road, Pawarenga",
-                "id": 1207005,
-                "url": "https://www.healthpoint.co.nz/pawarenga-clinic-1026-pawarenga-road-pawarenga/",
-                "branch": "community"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    173.5431616,
-                    -35.2371919
-                ]
-            },
-            "properties": {
-                "lat": -35.2371919,
-                "lng": 173.5431616,
-                "name": "Hauora Hokianga COVID-19 POP UP Vaccination Sites ",
-                "id": 1207005,
-                "url": "https://www.healthpoint.co.nz/community-health-services/community-health/hauora-hokianga-covid-19-pop-up-vaccination/",
-                "branch": "community"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     169.134877,
                     -46.6225173
                 ]
@@ -15748,6 +16036,24 @@
                 "name": "The Delta Buster COVID-19 Vaccination Bus",
                 "id": 1218178,
                 "url": "https://www.healthpoint.co.nz/community-health-services/community-health/the-delta-buster-covid-19-vaccination-bus/",
+                "branch": "community"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.8598637,
+                    -46.1988783
+                ]
+            },
+            "properties": {
+                "lat": -46.1988783,
+                "lng": 168.8598637,
+                "name": "Southern Region COVID-19 POP UP Vaccination Sites ",
+                "id": 1224605,
+                "url": "https://www.healthpoint.co.nz/community-health-services/community-health/southern-region-covid-19-pop-up-vaccination/",
                 "branch": "community"
             }
         }
