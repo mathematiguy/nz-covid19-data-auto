@@ -72,6 +72,16 @@ def main(cases_by_dhb, output_folder, output_csv, log_level):
         copyfile('cases_by_DHB.csv',
                  os.path.join('cases_by_DHB', row.date + '_cases_by_DHB.csv'))
 
+    cases_by_dhb_over_time = []
+    for f in os.listdir(output_folder):
+        fp = os.path.join(output_folder, f)
+        cases_by_dhb = pd.read_csv(fp)
+        cases_by_dhb['Date'] = f.split('_', 1)[0]
+        cases_by_dhb = cases_by_dhb.loc[:, ['Date'] + list(cases_by_dhb.columns[:-2])]
+        cases_by_dhb_over_time.append(cases_by_dhb)
+    cases_by_dhb_over_time = pd.concat(cases_by_dhb_over_time).sort_values('Date')
+    cases_by_dhb_over_time.to_csv(output_csv, index=False)
+
     # Check out latest_cases_by_DHB.csv and clean up old files
     run_shell_command('git checkout cases_by_DHB.csv')
     run_shell_command('rm -rf cases_by_DHB.githistory cases_by_DHB_history.csv cases_by_DHB')
